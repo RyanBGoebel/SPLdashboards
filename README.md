@@ -9,3 +9,5 @@ For this class, I was part of a group who was provided a subset of data from the
 ### Going Beyond the Coursework
 
 Although no interactivity was required for either dashboard version, I included interactive elements in each dashboard.
+
+### [Click here to view the Tableau Dashboard](https://public.tableau.com/app/profile/ryan.goebel/viz/SeattlePublicLibraryDigitalvsPhysicalCheckoutPredictions/Dashboard_RG)
